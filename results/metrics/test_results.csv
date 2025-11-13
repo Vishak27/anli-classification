@@ -1,0 +1,5 @@
+metric,value
+Accuracy,0.441
+Macro F1,0.4166013845638428
+Precision (avg),0.4440733260032161
+Recall (avg),0.4410997824171477

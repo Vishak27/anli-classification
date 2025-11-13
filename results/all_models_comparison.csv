@@ -1,0 +1,4 @@
+Model,Model Name,Dev Accuracy,Dev F1,Dev Loss
+DeBERTa-v3,microsoft/deberta-v3-base,0.453,0.4439,1.5257
+RoBERTa,roberta-base,0.442,0.4306,1.6372
+BERT,bert-base-uncased,0.429,0.4162,1.4661
