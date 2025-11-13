@@ -1,4 +1,4 @@
-# ANLI Round 2 Multi-Class Classification
+# ANLI Multi-Class Classification
 
 Natural Language Inference using Adversarial NLI dataset.
 
