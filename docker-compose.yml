@@ -1,0 +1,15 @@
+services:
+  anli-notebook:
+    build: .
+    container_name: anli-classification
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./notebooks:/app/notebooks
+      - ./src:/app/src
+      - ./results:/app/results
+      - ./models:/app/models
+      - ./data:/app/data
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
+      - WANDB_DISABLED=true

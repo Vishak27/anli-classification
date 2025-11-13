@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+anli-env/
+venv/
+
+# Large model files - IMPORTANT!
+models/saved_models/*.bin
+models/saved_models/*.safetensors
+models/**/*.bin
+models/**/*.safetensors
+*.bin
+*.safetensors
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+wandb/
+
+# Large model files
+
+models/**/model.safetensors
+
+models/**/*.safetensors
+
+*.safetensors
+
+# Large data files
+
+data/processed/*.csv
+
+data/processed/train_r2.csv
+
+
+# Large model files
+models/**/model.safetensors
+models/**/*.safetensors
+*.safetensors
+
+# Large data files
+data/processed/*.csv
+data/processed/train_r2.csv
