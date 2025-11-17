@@ -28,10 +28,4 @@ docker-compose up --build
 # Access Jupyter at http://localhost:8888
 ```
 
-### Features
-✅ Reproducible environment
-✅ All dependencies included
-✅ One-command setup
-✅ Volume mounts for live editing
-
 See [DOCKER.md](DOCKER.md) for detailed instructions.
