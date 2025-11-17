@@ -14,7 +14,7 @@ Access Jupyter at: http://localhost:8888
 
 - BERT-base: 42.9% dev accuracy
 - RoBERTa-base: 44.2% dev accuracy  
-- DeBERTa-v3-base: 45.3% dev accuracy ⭐
+- DeBERTa-v3-base: 45.3% dev accuracy 
 
 See DOCKER.md for detailed deployment instructions.
 
